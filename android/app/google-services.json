@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045196312620",
+    "project_id": "salestrack-2bd25",
+    "storage_bucket": "salestrack-2bd25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045196312620:android:f3200abc2b623ebb7bc189",
+        "android_client_info": {
+          "package_name": "com.example.salestrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECes55zjHGtGnjtqftFGpi-_vIgGyBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
