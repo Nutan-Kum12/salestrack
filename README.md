@@ -6,7 +6,7 @@ SalesTrack is a Flutter-based mobile application for tracking shop deliveries. I
 
 ## 🚀 Features
 ✅ **Firebase Phone Authentication** - Secure login using OTP  
-✅ **City Selection** - Fetches cities dynamically from Firestore  
+✅ **Locality Selection** - Fetches localities dynamically from Firestore  
 ✅ **Shop Listing** - Displays shops sorted by increasing distance  
 ✅ **Live Location & Distance Calculation** - Uses Geolocator to sort shops  
 ✅ **Shop Details Page** - Shows shop location on map  
