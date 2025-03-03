@@ -17,19 +17,16 @@ SalesTrack is a Flutter-based mobile application for tracking shop deliveries. I
 
 ## 📸 Screenshots
 
-| Home Screen | Locality Selection | Shop Details|
-|-------------|---------------|--------------|
-| ![Home Screen](assets/images/homescreen.jpg) | ![Locality](assets/images/dropdown.jpg) | ![Shops](assets/images/shopdetail.jpg) |
+| Home Screen | Locality Selection | Shop Details| OTP Verification |
+|-------------|---------------|--------------|--------------|
+| ![Home Screen](assets/images/homescreen.jpg) | ![Locality](assets/images/dropdown.jpg) | ![Shops](assets/images/shopdetail.jpg) | ![OTP](assets/images/deliverystatusafterverifyotp.jpg) |
 
-| OTP Verification |
-|-------------|------------------|
-|![OTP](assets/images/deliverystatusafterverifyotp.jpg) |
 
 ---
 
 
 ## 🎥 Demo Video
-![Demo Video](videos/demo.mp4)
+![Demo Video](assets/videos/demo.mp4)
 
 
 ## 🛠️ Installation & Setup
