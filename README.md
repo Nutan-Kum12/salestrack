@@ -1,10 +1,43 @@
-# salestrack
+# 🛒 SalesTrack - Flutter App
 
-A new Flutter project.
+SalesTrack is a Flutter-based mobile application for tracking shop deliveries. It includes Firebase authentication, city-based shop selection, shop listing with distance sorting, and OTP verification for marking deliveries.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+✅ **Firebase Phone Authentication** - Secure login using OTP  
+✅ **City Selection** - Fetches cities dynamically from Firestore  
+✅ **Shop Listing** - Displays shops sorted by increasing distance  
+✅ **Live Location & Distance Calculation** - Uses Geolocator to sort shops  
+✅ **Shop Details Page** - Shows shop location on map  
+✅ **OTP Verification for Delivery** - Ensures secure delivery confirmation  
+✅ **Bloc State Management** - Efficient state handling  
+
+---
+
+## 📸 Screenshots
+
+| Home Screen | Locality Selection | Shop Details|
+|-------------|---------------|--------------|
+| ![Home Screen](assets/images/homescreen.jpg) | ![Locality](assets/images/dropdown.jpg) | ![Shops](assets/images/shopdetail.jpg) |
+
+| OTP Verification |
+|-------------|------------------|
+|![OTP](assets/images/deliverystatusafterverifyotp.jpg) |
+
+---
+
+
+## 🎥 Demo Video
+![Demo Video](videos/demo.mp4)
+
+
+## 🛠️ Installation & Setup
+
+1️⃣ Clone the repository:
+```sh
+git clone https://github.com/Nutan-Kum12/salestrack.git
+cd salestrack
 
 A few resources to get you started if this is your first Flutter project:
 
